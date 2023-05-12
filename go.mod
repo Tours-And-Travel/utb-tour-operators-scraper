@@ -1,4 +1,4 @@
-module web-scraper
+module github.com/Tours-And-Travel/utb-tour-operators-scraper
 
 go 1.20
 

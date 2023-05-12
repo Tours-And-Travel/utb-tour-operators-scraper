@@ -81,6 +81,7 @@ func (state *State) load() {
 func save(tourOperators []TourOperator) {
 	if len(tourOperators) > 0 {
 		jsonData, err := json.Marshal(tourOperators)
+
 		if err != nil {
 			panic(err)
 		}
