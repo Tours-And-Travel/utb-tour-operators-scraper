@@ -1,0 +1,942 @@
+[
+  {
+    "name": "ABIGABA JULIUS",
+    "licence_number": "UTB/TG/2022/10432"
+  },
+  {
+    "name": "ADRIAN DDUNGU",
+    "licence_number": "UTB/TG/2023/10298"
+  },
+  {
+    "name": "AGABA ADAMS",
+    "licence_number": "UTB/TG/2024/11514"
+  },
+  {
+    "name": "AGABA ALLAN",
+    "licence_number": "UTB/TG/2022/10324"
+  },
+  {
+    "name": "AGABA HILLARY KATTO",
+    "licence_number": "UTB/TG/2025/11594"
+  },
+  {
+    "name": "AGABA SYLIVER TREVOR",
+    "licence_number": "UTB/TG/2023/10376"
+  },
+  {
+    "name": "AINEBYONA ELIAS",
+    "licence_number": "UTB/TG/2025/11535"
+  },
+  {
+    "name": "AKAMPURIRA BRIAN",
+    "licence_number": "UTB/TG/2025/11599"
+  },
+  {
+    "name": "AKANKWASA EMMANUEL",
+    "licence_number": "UTB/TG/2023/10722"
+  },
+  {
+    "name": "AKATUHEBWA ALLAN",
+    "licence_number": "UTB/TG/2025/11071"
+  },
+  {
+    "name": "AKOL KABAHUMA SHEILA",
+    "licence_number": "UTB/TG/2023/11197"
+  },
+  {
+    "name": "ALIGANYIRA ROBERT",
+    "licence_number": "UTB/TG/2023/10867"
+  },
+  {
+    "name": "AMPEREZA ANOLD",
+    "licence_number": "UTB/TG/2025/11630"
+  },
+  {
+    "name": "AMUTUHEIRE PERCY",
+    "licence_number": "UTB/TG/2025/11631"
+  },
+  {
+    "name": "AMWATA BENARD",
+    "licence_number": "UTB/TG/2022/10738"
+  },
+  {
+    "name": "ANDWAANAHO KANYONYI",
+    "licence_number": "UTB/TG/2023/11123"
+  },
+  {
+    "name": "ARINAITWE PETER MUGISHA",
+    "licence_number": "UTB/TG/2025/11593"
+  },
+  {
+    "name": "ARINEITWE ALLAN",
+    "licence_number": "UTB/TG/2023/10556"
+  },
+  {
+    "name": "ARINEITWE DENIS KAKWENZA",
+    "licence_number": "UTB/TG/2024/11568"
+  },
+  {
+    "name": "ARSHLEY BRIAN",
+    "licence_number": "UTB/TG/2022/10837"
+  },
+  {
+    "name": "ASIIMWE BOB",
+    "licence_number": "UTB/TG/2023/10403"
+  },
+  {
+    "name": "ASIIMWE MATHIAS TINKAH",
+    "licence_number": "UTB/TG/2025/11602"
+  },
+  {
+    "name": "ATIM SARAH",
+    "licence_number": "UTB/TG/2023/10533"
+  },
+  {
+    "name": "ATUHAIRE HAJARAH",
+    "licence_number": "UTB/TG/2023/11254"
+  },
+  {
+    "name": "ATWEBEMBIRE DERICK",
+    "licence_number": "UTB/TG/2025/10704"
+  },
+  {
+    "name": "AZEIRWE EMMANUEL",
+    "licence_number": "UTB/TG/2023/10859"
+  },
+  {
+    "name": "BAHEMUKA JAMES",
+    "licence_number": "UTB/TG/2023/11173"
+  },
+  {
+    "name": "BALAAM BAMWESIGA",
+    "licence_number": "UTB/TG/2022/10423"
+  },
+  {
+    "name": "BALIIJA BALYAMPA YAMPA ABRAHAM",
+    "licence_number": "UTB/TG/2024/11483"
+  },
+  {
+    "name": "BANURA AGATHA",
+    "licence_number": "UTB/TG/2024/11281"
+  },
+  {
+    "name": "BARIGYE DEUS",
+    "licence_number": "UTB/TG/2025/10316"
+  },
+  {
+    "name": "BASHAIJA FELIX",
+    "licence_number": "UTB/TG/2025/11422"
+  },
+  {
+    "name": "BATSURANA BRIAN",
+    "licence_number": "UTB/TG/2022/10726"
+  },
+  {
+    "name": "BIRUNGIFREDJECK",
+    "licence_number": "UTB/TG/2025/11120"
+  },
+  {
+    "name": "BIRYOMUMEISHO DARIUS",
+    "licence_number": "UTB/TG/2024/10799"
+  },
+  {
+    "name": "BUKENYA GOFREY",
+    "licence_number": "UTB/TG/2024/11248"
+  },
+  {
+    "name": "BUYONDO KENNETH MICHAEL",
+    "licence_number": "UTB/TG/2024/11511"
+  },
+  {
+    "name": "BWAMBALE YOWEBYOSI",
+    "licence_number": "UTB/TG/2023/11013"
+  },
+  {
+    "name": "BYARUGABAGERESOMU@GMAIL.COM",
+    "licence_number": "UTB/TG/2025/11615"
+  },
+  {
+    "name": "BYARUHANGA MARTHA",
+    "licence_number": "UTB/TG/2025/11545"
+  },
+  {
+    "name": "BYARUHANGA PETERBEN",
+    "licence_number": "UTB/TG/2023/11055"
+  },
+  {
+    "name": "CHEBET ISAAC",
+    "licence_number": "UTB/TG/2025/11397"
+  },
+  {
+    "name": "CHEMONGES EMMANUEL",
+    "licence_number": "UTB/TG/2025/11370"
+  },
+  {
+    "name": "CITY TYSON",
+    "licence_number": "UTB/TG/2023/10792"
+  },
+  {
+    "name": "DADAIRE ALPHAR",
+    "licence_number": "UTB/TG/2023/10721"
+  },
+  {
+    "name": "DENIS MOI KIPROTICH",
+    "licence_number": "UTB/TG/2024/11571"
+  },
+  {
+    "name": "DERICK WAISWA",
+    "licence_number": "UTB/TG/2023/10624"
+  },
+  {
+    "name": "DIBYA ROBERT",
+    "licence_number": "UTB/TG/2024/11401"
+  },
+  {
+    "name": "DICKSON NDYASIIMA",
+    "licence_number": "UTB/TG/2023/10713"
+  },
+  {
+    "name": "DOMINIC TUGUME",
+    "licence_number": "UTB/TG/2023/10824"
+  },
+  {
+    "name": "EDROMA CEASER",
+    "licence_number": "UTB/TG/2023/10490"
+  },
+  {
+    "name": "EMMANUEL BATUREINE",
+    "licence_number": "UTB/TG/2025/10773"
+  },
+  {
+    "name": "ERIC KAMOGA",
+    "licence_number": "UTB/TG/2022/10442"
+  },
+  {
+    "name": "ESABU EMMANUEL",
+    "licence_number": "UTB/TG/2024/11569"
+  },
+  {
+    "name": "GUNN ALLAN DERICK",
+    "licence_number": "UTB/TG/2024/10294"
+  },
+  {
+    "name": "GYAVIRA ANATOLI MWANGUZI",
+    "licence_number": "UTB/TG/2024/10756"
+  },
+  {
+    "name": "HABASA ANTHONY",
+    "licence_number": "UTB/TG/2022/10371"
+  },
+  {
+    "name": "HERBERT BYARUHANGA",
+    "licence_number": "UTB/TG/2023/10149"
+  },
+  {
+    "name": "INNOCENT AMPEIRE",
+    "licence_number": "UTB/TG/2024/10317"
+  },
+  {
+    "name": "JIMMY OCEN",
+    "licence_number": "UTB/TG/2025/10454"
+  },
+  {
+    "name": "JOSEPH KIWANUKA",
+    "licence_number": "UTB/TG/2024/10981"
+  },
+  {
+    "name": "JUDITH MIREMBE",
+    "licence_number": "UTB/TG/2023/10079"
+  },
+  {
+    "name": "KABAGYO EDWARD",
+    "licence_number": "UTB/TG/2022/10823"
+  },
+  {
+    "name": "KABANDA SHAFIC",
+    "licence_number": "UTB/TG/2023/10378"
+  },
+  {
+    "name": "KABOGOZA ELIAS",
+    "licence_number": "UTB/TG/2025/11578"
+  },
+  {
+    "name": "KABULEZI VIRIANO",
+    "licence_number": "UTB/TG/2023/10304"
+  },
+  {
+    "name": "KAGEZI RICHARD",
+    "licence_number": "UTB/TG/2024/11176"
+  },
+  {
+    "name": "KAGGWA AMOS",
+    "licence_number": "UTB/TG/2022/10476"
+  },
+  {
+    "name": "KAJANGWA JOHN",
+    "licence_number": "UTB/TG/2025/11526"
+  },
+  {
+    "name": "KALAMAGI HENRY RAVASCO",
+    "licence_number": "UTB/TG/2024/10035"
+  },
+  {
+    "name": "KALUYA ISAAC KULABAKO",
+    "licence_number": "UTB/TG/2024/11019"
+  },
+  {
+    "name": "KAMUGISHA NAZARIUS",
+    "licence_number": "UTB/TG/2023/10918"
+  },
+  {
+    "name": "KAMYA KASSIM",
+    "licence_number": "UTB/TG/2022/10421"
+  },
+  {
+    "name": "KANAALO FREDRICK",
+    "licence_number": "UTB/TG/2023/10411"
+  },
+  {
+    "name": "KANSIIME PATRICIA",
+    "licence_number": "UTB/TG/2025/10920"
+  },
+  {
+    "name": "KASADHA DONANTO",
+    "licence_number": "UTB/TG/2025/10544"
+  },
+  {
+    "name": "KASASIRA AMOS",
+    "licence_number": "UTB/TG/2024/10865"
+  },
+  {
+    "name": "KATABARWA PATRICK ACHAALI",
+    "licence_number": "UTB/TG/2025/11601"
+  },
+  {
+    "name": "KATENDE ISAAC",
+    "licence_number": "UTB/TG/2025/11629"
+  },
+  {
+    "name": "KATESI DONAH",
+    "licence_number": "UTB/TG/2023/10780"
+  },
+  {
+    "name": "KATONGOLE YUNUSU",
+    "licence_number": "UTB/TG/2023/11132"
+  },
+  {
+    "name": "KATULUBA ROGERS",
+    "licence_number": "UTB/TG/2023/10437"
+  },
+  {
+    "name": "KATUNGI INNOCENT",
+    "licence_number": "UTB/TG/2025/11549"
+  },
+  {
+    "name": "KAZIRO RONALD",
+    "licence_number": "UTB/TG/2025/11000"
+  },
+  {
+    "name": "KIGANDA HARRY KULA",
+    "licence_number": "UTB/TG/2025/11580"
+  },
+  {
+    "name": "KIGGUNDU ABDUL AZIZ",
+    "licence_number": "UTB/TG/2024/10937"
+  },
+  {
+    "name": "KIMULI SAMUEL",
+    "licence_number": "UTB/TG/2025/11605"
+  },
+  {
+    "name": "KIRYA GODFREY",
+    "licence_number": "UTB/TG/2023/10314"
+  },
+  {
+    "name": "KIWANUKA MOSES MUBIRU",
+    "licence_number": "UTB/TG/2023/10775"
+  },
+  {
+    "name": "KIYIMBA MARK DANTON ASHRAF",
+    "licence_number": "UTB/TG/2024/11144"
+  },
+  {
+    "name": "KIZIGE WILFRED",
+    "licence_number": "UTB/TG/2025/11427"
+  },
+  {
+    "name": "KUNGUJJE ROBERT KIGONGO",
+    "licence_number": "UTB/TG/2023/10253"
+  },
+  {
+    "name": "KWESIGA BOSCO KWIZERA",
+    "licence_number": "UTB/TG/2023/10932"
+  },
+  {
+    "name": "KWIZERA ISAAC",
+    "licence_number": "UTB/TG/2025/11610"
+  },
+  {
+    "name": "KYANJO JAMES",
+    "licence_number": "UTB/TG/2025/11636"
+  },
+  {
+    "name": "LOBOE JOHN",
+    "licence_number": "UTB/TG/2023/10354"
+  },
+  {
+    "name": "LUBEGA JOSEPH",
+    "licence_number": "UTB/TG/2023/11134"
+  },
+  {
+    "name": "LUBOWA MOSES",
+    "licence_number": "UTB/TG/2022/10390"
+  },
+  {
+    "name": "LUKYAMUZI LINCOLN MARK",
+    "licence_number": "UTB/TG/2025/11632"
+  },
+  {
+    "name": "LUKYAMUZI WILLY",
+    "licence_number": "UTB/TG/2022/10749"
+  },
+  {
+    "name": "LULIIBE HUSSEIN",
+    "licence_number": "UTB/TG/2024/10417"
+  },
+  {
+    "name": "LUYIMBAZI JOACHIM",
+    "licence_number": "UTB/TG/2023/10508"
+  },
+  {
+    "name": "LUYIMBAZI THOMAS",
+    "licence_number": "UTB/TG/2023/10605"
+  },
+  {
+    "name": "LWEGABA BRIAN",
+    "licence_number": "UTB/TG/2025/11565"
+  },
+  {
+    "name": "MAGARA EDSON",
+    "licence_number": "UTB/TG/2024/10254"
+  },
+  {
+    "name": "MAGEMBE GODFREY",
+    "licence_number": "UTB/TG/2024/10391"
+  },
+  {
+    "name": "MASIKA ELIJAH",
+    "licence_number": "UTB/TG/2024/11376"
+  },
+  {
+    "name": "MATIYA LUYIIMA",
+    "licence_number": "UTB/TG/2023/10094"
+  },
+  {
+    "name": "MBABAZI JULIUS",
+    "licence_number": "UTB/TG/2022/10105"
+  },
+  {
+    "name": "MBABAZI PHENNY",
+    "licence_number": "UTB/TG/2023/10910"
+  },
+  {
+    "name": "MBAJU AMON",
+    "licence_number": "UTB/TG/2024/11342"
+  },
+  {
+    "name": "MIREMBE ROBERT",
+    "licence_number": "UTB/TG/2023/11188"
+  },
+  {
+    "name": "MOSES NINSIIMA",
+    "licence_number": "UTB/TG/2023/11152"
+  },
+  {
+    "name": "MOSES WANGKOKO EBIL",
+    "licence_number": "UTB/TG/2025/11589"
+  },
+  {
+    "name": "MUBIRU ARNOLD",
+    "licence_number": "UTB/TG/2023/10097"
+  },
+  {
+    "name": "MUGABI BAGENDA AJILEO ADYERI",
+    "licence_number": "UTB/TG/2022/10707"
+  },
+  {
+    "name": "MUGABO NORMAN",
+    "licence_number": "UTB/TG/2022/10087"
+  },
+  {
+    "name": "MUGERWA IBRA",
+    "licence_number": "UTB/TG/2024/11026"
+  },
+  {
+    "name": "MUGISHA MUHAMMAD",
+    "licence_number": "UTB/TG/2023/10513"
+  },
+  {
+    "name": "MUGUME DANIEL",
+    "licence_number": "UTB/TG/2024/11522"
+  },
+  {
+    "name": "MUHANGI GODWIN",
+    "licence_number": "UTB/TG/2022/10414"
+  },
+  {
+    "name": "MUHEIRWE VICENT",
+    "licence_number": "UTB/TG/2023/10750"
+  },
+  {
+    "name": "MUHINDO DERRICK",
+    "licence_number": "UTB/TG/2025/11541"
+  },
+  {
+    "name": "MUHINDO JOHNSON",
+    "licence_number": "UTB/TG/2022/10696"
+  },
+  {
+    "name": "MUHUMUZA CHRISS",
+    "licence_number": "UTB/TG/2023/10752"
+  },
+  {
+    "name": "MUHUMUZA ROGERS",
+    "licence_number": "UTB/TG/2022/10355"
+  },
+  {
+    "name": "MUHWEZI JEROME",
+    "licence_number": "UTB/TG/2025/11614"
+  },
+  {
+    "name": "MUJJONA NICHOLAS",
+    "licence_number": "UTB/TG/2024/11537"
+  },
+  {
+    "name": "MUKALAZI RONALD",
+    "licence_number": "UTB/TG/2023/10705"
+  },
+  {
+    "name": "MUKISA ENOCK",
+    "licence_number": "UTB/TG/2025/11510"
+  },
+  {
+    "name": "MULINDWA PETER EDGER",
+    "licence_number": "UTB/TG/2025/11626"
+  },
+  {
+    "name": "MULOOSI FRANCIS WATAKA",
+    "licence_number": "UTB/TG/2023/10331"
+  },
+  {
+    "name": "MULUNGI BRIDGET MONICA",
+    "licence_number": "UTB/TG/2024/11519"
+  },
+  {
+    "name": "MUNYAMPAME BRIGTON",
+    "licence_number": "UTB/TG/2024/11509"
+  },
+  {
+    "name": "MURUNGI DAVIS",
+    "licence_number": "UTB/TG/2025/11405"
+  },
+  {
+    "name": "MURUNGI NASIIBU",
+    "licence_number": "UTB/TG/2023/10894"
+  },
+  {
+    "name": "MURUNGI RODGERS PAPA",
+    "licence_number": "UTB/TG/2024/11570"
+  },
+  {
+    "name": "MUSA MUHUMUZA KASAJJA",
+    "licence_number": "UTB/TG/2024/11365"
+  },
+  {
+    "name": "MUSINGUZI GERALD",
+    "licence_number": "UTB/TG/2024/10063"
+  },
+  {
+    "name": "MUSOTA STEPHEN KIKWANGA",
+    "licence_number": "UTB/TG/2025/11267"
+  },
+  {
+    "name": "MUTALE NASSER",
+    "licence_number": "UTB/TG/2023/10931"
+  },
+  {
+    "name": "MUTAMBUZE JULIUS",
+    "licence_number": "UTB/TG/2022/10108"
+  },
+  {
+    "name": "MUTEBI ANDREW",
+    "licence_number": "UTB/TG/2025/10743"
+  },
+  {
+    "name": "MUTEGEKI ALLAN",
+    "licence_number": "UTB/TG/2025/11329"
+  },
+  {
+    "name": "MUTEGEKI TADEO",
+    "licence_number": "UTB/TG/2023/10609"
+  },
+  {
+    "name": "MUTUNGI MOSES",
+    "licence_number": "UTB/TG/2024/11516"
+  },
+  {
+    "name": "MWESIGE DAN",
+    "licence_number": "UTB/TG/2022/10745"
+  },
+  {
+    "name": "NABUKALU GLORIA GRACE",
+    "licence_number": "UTB/TG/2025/11523"
+  },
+  {
+    "name": "NABULYA VICENCIA",
+    "licence_number": "UTB/TG/2024/11322"
+  },
+  {
+    "name": "NAGABA NATHAN",
+    "licence_number": "UTB/TG/2025/11595"
+  },
+  {
+    "name": "NAKAFEERO VERONICA",
+    "licence_number": "UTB/TG/2022/10135"
+  },
+  {
+    "name": "NAKAJUBI GRACE ANN",
+    "licence_number": "UTB/TG/2023/10999"
+  },
+  {
+    "name": "NAKATE JAMIRAH",
+    "licence_number": "UTB/TG/2022/10725"
+  },
+  {
+    "name": "NAKATO BERNADETTE",
+    "licence_number": "UTB/TG/2025/11550"
+  },
+  {
+    "name": "NAMAARA FENEHANSI",
+    "licence_number": "UTB/TG/2023/10807"
+  },
+  {
+    "name": "NAMAKULA SHELLONER",
+    "licence_number": "UTB/TG/2023/10841"
+  },
+  {
+    "name": "NASASIRA ABRAHAM",
+    "licence_number": "UTB/TG/2025/11539"
+  },
+  {
+    "name": "NATUHUMUZA MILDRED",
+    "licence_number": "UTB/TG/2024/11416"
+  },
+  {
+    "name": "NATUKUNDA JIMMY",
+    "licence_number": "UTB/TG/2025/11633"
+  },
+  {
+    "name": "NDABARETSE ANATOLI",
+    "licence_number": "UTB/TG/2025/11576"
+  },
+  {
+    "name": "NDEZE BALE DEO",
+    "licence_number": "UTB/TG/2024/11343"
+  },
+  {
+    "name": "NELSON MULUMBA",
+    "licence_number": "UTB/TG/2023/10954"
+  },
+  {
+    "name": "NIWAMANYA FRED",
+    "licence_number": "UTB/TG/2024/11273"
+  },
+  {
+    "name": "NKOOLA KHALIF",
+    "licence_number": "UTB/TG/2022/10504"
+  },
+  {
+    "name": "NSABA OSCAR FRANK",
+    "licence_number": "UTB/TG/2023/10983"
+  },
+  {
+    "name": "NSADHA CHARLES BONGE",
+    "licence_number": "UTB/TG/2025/11077"
+  },
+  {
+    "name": "NSUBUGA IAN",
+    "licence_number": "UTB/TG/2025/11558"
+  },
+  {
+    "name": "NTEGE STEPHEN NSOBYA",
+    "licence_number": "UTB/TG/2024/11572"
+  },
+  {
+    "name": "NYERO SILAS KAL",
+    "licence_number": "UTB/TG/2024/11538"
+  },
+  {
+    "name": "OBEDGIU FRANCIS",
+    "licence_number": "UTB/TG/2024/11503"
+  },
+  {
+    "name": "OCHAYA ROBERT",
+    "licence_number": "UTB/TG/2023/10333"
+  },
+  {
+    "name": "OJAMBO NATHAN",
+    "licence_number": "UTB/TG/2024/10407"
+  },
+  {
+    "name": "OJOK RAPHAEL",
+    "licence_number": "UTB/TG/2025/11377"
+  },
+  {
+    "name": "OJOK RICHARD",
+    "licence_number": "UTB/TG/2025/11546"
+  },
+  {
+    "name": "OKECH OBUR",
+    "licence_number": "UTB/TG/2022/10257"
+  },
+  {
+    "name": "OKUKU LOVY",
+    "licence_number": "UTB/TG/2025/10796"
+  },
+  {
+    "name": "OLUKUMA MARLON EMMANUEL",
+    "licence_number": "UTB/TG/2023/10995"
+  },
+  {
+    "name": "OMONY JOSHUA",
+    "licence_number": "UTB/TG/2025/11581"
+  },
+  {
+    "name": "ONYIKO DENIS",
+    "licence_number": "UTB/TG/2023/10854"
+  },
+  {
+    "name": "OTTO DAVID OYOO",
+    "licence_number": "UTB/TG/2025/11492"
+  },
+  {
+    "name": "OUMA JOSEPH",
+    "licence_number": "UTB/TG/2025/11559"
+  },
+  {
+    "name": "OWACH BRIAN",
+    "licence_number": "UTB/TG/2023/11179"
+  },
+  {
+    "name": "PAULINE ATIM",
+    "licence_number": "UTB/TG/2025/11604"
+  },
+  {
+    "name": "PIUS MUHANGI",
+    "licence_number": "UTB/TG/2025/11598"
+  },
+  {
+    "name": "RIYA CEDRICK",
+    "licence_number": "UTB/TG/2025/10179"
+  },
+  {
+    "name": "RUKIRI PEREZ",
+    "licence_number": "UTB/TG/2023/10881"
+  },
+  {
+    "name": "RUKUNDO DAVIS",
+    "licence_number": "UTB/TG/2023/10320"
+  },
+  {
+    "name": "RUKUNDO HERBERT",
+    "licence_number": "UTB/TG/2025/11612"
+  },
+  {
+    "name": "SADAM IBRAHIM",
+    "licence_number": "UTB/TG/2023/11109"
+  },
+  {
+    "name": "SEKAMATTE STEVEN",
+    "licence_number": "UTB/TG/2023/10693"
+  },
+  {
+    "name": "SEMBATYA KIGANDA ISMAIL",
+    "licence_number": "UTB/TG/2025/11424"
+  },
+  {
+    "name": "SENTAMU TONY LUTAKOME",
+    "licence_number": "UTB/TG/2023/10159"
+  },
+  {
+    "name": "SERUBIRI MIKE",
+    "licence_number": "UTB/TG/2025/11575"
+  },
+  {
+    "name": "SHARIF RICKY",
+    "licence_number": "UTB/TG/2023/10853"
+  },
+  {
+    "name": "SIGIRENDA AMON",
+    "licence_number": "UTB/TG/2025/11169"
+  },
+  {
+    "name": "SSEBAKAKI HILLARY",
+    "licence_number": "UTB/TG/2023/11135"
+  },
+  {
+    "name": "SSEBULIBA BENJAMIN",
+    "licence_number": "UTB/TG/2024/10896"
+  },
+  {
+    "name": "SSEMANDA IMAMU",
+    "licence_number": "UTB/TG/2023/11130"
+  },
+  {
+    "name": "SSEMIYAGI ENOCK",
+    "licence_number": "UTB/TG/2023/10398"
+  },
+  {
+    "name": "SSENTEZA HENRY",
+    "licence_number": "UTB/TG/2024/11269"
+  },
+  {
+    "name": "SSERUBIRI ARTHUR",
+    "licence_number": "UTB/TG/2022/10290"
+  },
+  {
+    "name": "SSERWADDA ISAAC",
+    "licence_number": "UTB/TG/2023/10606"
+  },
+  {
+    "name": "SSESANGA ISSA",
+    "licence_number": "UTB/TG/2024/10382"
+  },
+  {
+    "name": "SULAIT IBRAHIM",
+    "licence_number": "UTB/TG/2023/11014"
+  },
+  {
+    "name": "TAMALE ISMAIL GEORGE",
+    "licence_number": "UTB/TG/2024/11517"
+  },
+  {
+    "name": "TAMALE JOSEPH",
+    "licence_number": "UTB/TG/2023/10034"
+  },
+  {
+    "name": "TAMWENYA SUMMER PAUL",
+    "licence_number": "UTB/TG/2024/10870"
+  },
+  {
+    "name": "TENYWA CHRISTOPHER BOSCO",
+    "licence_number": "UTB/TG/2023/10281"
+  },
+  {
+    "name": "TIMOTHY OBOTH",
+    "licence_number": "UTB/TG/2025/11024"
+  },
+  {
+    "name": "TOKO BONIFACE RICHARD",
+    "licence_number": "UTB/TG/2023/10526"
+  },
+  {
+    "name": "TUHAISE BRIAN ASABA",
+    "licence_number": "UTB/TG/2023/10127"
+  },
+  {
+    "name": "TUHAISE SAM",
+    "licence_number": "UTB/TG/2025/11548"
+  },
+  {
+    "name": "TUKAMUSHABA DAVIS",
+    "licence_number": "UTB/TG/2023/10952"
+  },
+  {
+    "name": "TUMUSHABE ALEX BOSSA SALONGO",
+    "licence_number": "UTB/TG/2024/10941"
+  },
+  {
+    "name": "TUMUSIIME HERBERT",
+    "licence_number": "UTB/TG/2023/10812"
+  },
+  {
+    "name": "TUMUSIIME MOSES",
+    "licence_number": "UTB/TG/2023/10977"
+  },
+  {
+    "name": "TUMUSIME IVAN",
+    "licence_number": "UTB/TG/2023/10751"
+  },
+  {
+    "name": "TUMWESIGYE ELASMUS",
+    "licence_number": "UTB/TG/2025/11454"
+  },
+  {
+    "name": "TUMWINE KENETH",
+    "licence_number": "UTB/TG/2023/10689"
+  },
+  {
+    "name": "TUREBOMWE EMMANUEL",
+    "licence_number": "UTB/TG/2023/10387"
+  },
+  {
+    "name": "TURYASINGURA JAMES",
+    "licence_number": "UTB/TG/2025/11556"
+  },
+  {
+    "name": "TWETEISE BENJAMIN",
+    "licence_number": "UTB/TG/2024/11528"
+  },
+  {
+    "name": "TWINOMUJUNI DOMINIC",
+    "licence_number": "UTB/TG/2023/11190"
+  },
+  {
+    "name": "UWIRAGIYE ALLAN",
+    "licence_number": "UTB/TG/2024/11498"
+  },
+  {
+    "name": "VICENT KATWIRE BYARUGABA",
+    "licence_number": "UTB/TG/2023/10406"
+  },
+  {
+    "name": "WAAKO SAM",
+    "licence_number": "UTB/TG/2024/11540"
+  },
+  {
+    "name": "WALEKULA RICHARD MARTIN",
+    "licence_number": "UTB/TG/2025/10645"
+  },
+  {
+    "name": "WALULYA RASHID KIWANUKA",
+    "licence_number": "UTB/TG/2024/10934"
+  },
+  {
+    "name": "WANDULU DAVID MAGOMU",
+    "licence_number": "UTB/TG/2022/10023"
+  },
+  {
+    "name": "WANDULU DAVID MAGOMU",
+    "licence_number": "UTB/TG/2025/11587"
+  },
+  {
+    "name": "WANDUSE JAMES",
+    "licence_number": "UTB/TG/2022/10623"
+  },
+  {
+    "name": "WANGOLO ROGERS",
+    "licence_number": "UTB/TG/2022/10408"
+  },
+  {
+    "name": "YIGA PATRICK",
+    "licence_number": "UTB/TG/2023/10271"
+  },
+  {
+    "name": "ZIRIMITI JOBFRANCIS",
+    "licence_number": "UTB/TG/2023/11112"
+  },
+  {
+    "name": "ZIWA SAKA",
+    "licence_number": "UTB/TG/2024/10912"
+  }
+]
