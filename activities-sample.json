@@ -1,0 +1,160 @@
+{
+  "activities": [
+    {
+      "tour_id": "UG-GOR-001",
+      "name": "1 Day Gorilla Trek",
+      "description": "A day trip starting from Kabale Town or Lake Bunyonyi to Bwindi or Mgahinga. Trek with UWA rangers to locate gorillas, spend an hour observing them, and return with a packed lunch.",
+      "duration_days": 1,
+      "starting_location": ["Kabale Town", "Lake Bunyonyi"],
+      "regions": ["Bwindi", "Mgahinga"],
+      "images": ["https://www.hiddengemsofuganda.com/images/gorilla1.jpg"],
+      "type": "Private",
+      "min_group_size": 1,
+      "includes": ["Gorilla permit", "Transport", "Guide", "Packed lunch"],
+      "excludes": ["International airfare", "Tips", "Insurance"],
+      "gorilla_permit_included": true,
+      "accommodation": {
+        "type": "N/A (day trip)",
+        "included": false
+      },
+      "availability": ["Daily"],
+      "language": ["English"],
+      "difficulty_level": "Moderate",
+      "transport_type": "4x4 Vehicle",
+      "customizable": false,
+      "booking_url": "https://www.hiddengemsofuganda.com/contact",
+      "prices": {
+        "solo": 1100,
+        "group": {
+          "2+": 970
+        },
+        "currency": "USD"
+      }
+    },
+    {
+      "tour_id": "UG-GOR-003",
+      "name": "3 Day Gorilla Trek",
+      "description": "Starts from Entebbe or Kigali Airport. Includes transport to Bwindi or Mgahinga, overnight stays, guided gorilla trek, one hour with gorillas, and optional community visits or coffee tours.",
+      "duration_days": 3,
+      "starting_location": ["Entebbe Airport", "Kigali Airport"],
+      "regions": ["Bwindi", "Mgahinga"],
+      "images": "https://www.hiddengemsofuganda.com/images/gorilla2.jpg",
+      "type": "Private",
+      "min_group_size": 1,
+      "includes": [
+        "Gorilla permit",
+        "Transport",
+        "Accommodation",
+        "Meals",
+        "Guide"
+      ],
+      "excludes": ["International airfare", "Tips", "Insurance"],
+      "gorilla_permit_included": true,
+      "accommodation": {
+        "type": "Lodge",
+        "included": true
+      },
+      "availability": ["Daily"],
+      "language": ["English"],
+      "difficulty_level": "Moderate",
+      "transport_type": "4x4 Vehicle",
+      "customizable": true,
+      "booking_url": "https://www.hiddengemsofuganda.com/contact",
+      "prices": {
+        "solo": 2000,
+        "group": {
+          "2": 1510,
+          "3": 1315,
+          "4": 1140
+        },
+        "currency": "USD"
+      }
+    },
+    {
+      "tour_id": "UG-GOR-004",
+      "name": "4 Day Gorilla Trek & Lake Bunyonyi",
+      "description": "Includes gorilla trekking in Bwindi or Mgahinga, followed by 2 nights at Lake Bunyonyi with optional nature walks, boat cruises, or canoeing. Full board accommodation provided.",
+      "duration_days": 4,
+      "starting_location": ["Entebbe Airport", "Kigali Airport"],
+      "regions": ["Bwindi", "Mgahinga", "Lake Bunyonyi"],
+      "images": ["https://www.hiddengemsofuganda.com/images/hidden.png"],
+      "type": "Private",
+      "min_group_size": 1,
+      "includes": [
+        "Gorilla permit",
+        "Transport",
+        "Accommodation",
+        "Meals",
+        "Guide",
+        "Lake activities"
+      ],
+      "excludes": ["International airfare", "Tips", "Insurance"],
+      "gorilla_permit_included": true,
+      "accommodation": {
+        "type": "Lodge",
+        "included": true
+      },
+      "availability": ["Daily"],
+      "language": ["English"],
+      "difficulty_level": "Moderate",
+      "transport_type": "4x4 Vehicle",
+      "customizable": true,
+      "booking_url": ["https://www.hiddengemsofuganda.com/contact"],
+      "prices": {
+        "solo": 2440,
+        "group": {
+          "2": 1790,
+          "3": 1540,
+          "4": 1450
+        },
+        "currency": "USD"
+      }
+    },
+    {
+      "tour_id": "UG-GOR-005",
+      "name": "5 Day Gorilla Trek, Queen Elizabeth NP & Lake Bunyonyi",
+      "description": "Combines gorilla trekking in Bwindi, game drives in Queen Elizabeth NP, chimp tracking at Kyambura Gorge, and time at Lake Bunyonyi. Full board accommodation and listed activities included.",
+      "duration_days": 5,
+      "starting_location": ["Kampala", "Entebbe Airport", "Kigali Airport"],
+      "regions": [
+        "Bwindi",
+        "Queen Elizabeth NP",
+        "Kyambura Gorge",
+        "Lake Bunyonyi"
+      ],
+      "images": ["https://www.hiddengemsofuganda.com/images/gorilla_baby.jpg"],
+      "type": "Private",
+      "min_group_size": 1,
+      "includes": [
+        "Gorilla permit",
+        "Chimp tracking",
+        "Game drives",
+        "Transport",
+        "Accommodation",
+        "Meals",
+        "Guide"
+      ],
+      "excludes": ["International airfare", "Tips", "Insurance"],
+      "gorilla_permit_included": true,
+      "accommodation": {
+        "type": "Lodge",
+        "included": true
+      },
+      "availability": ["Daily"],
+      "language": ["English"],
+      "difficulty_level": "Moderate",
+      "transport_type": "4x4 Vehicle",
+      "customizable": true,
+      "booking_url": "https://www.hiddengemsofuganda.com/contact",
+      "prices": {
+        "solo": 2760,
+        "group": {
+          "2": 2255,
+          "3": 1875,
+          "4": 1700
+        },
+        "currency": "USD"
+      }
+    }
+  ]
+}
