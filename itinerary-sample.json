@@ -1,0 +1,160 @@
+{
+  "link": "https://labaafrica.com/tour/8-days-uganda-gorillas-chimpanzee-and-tree-climbing-lions-tour/",
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival and transfer to your hotel",
+      "location": "Entebbe/Kampala",
+      "images": [],
+      "coordinates": [0.0236, 32.5825],
+      "accommodation": "Via Via Guest House",
+      "highlights": ["Airport transfer", "Relax at hotel"],
+      "activities": [
+        {
+          "icon": "car",
+          "title": "Airport pickup",
+          "time": "Morning",
+          "description": "Meet your guide and transfer to hotel."
+        },
+        {
+          "icon": "resting",
+          "title": "Rest & relax",
+          "time": "Afternoon",
+          "description": "Settle in and relax at the guest house."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Transfer to Lake Mburo National Park",
+      "location": "Lake Mburo National Park via Equator",
+      "images": [],
+      "coordinates": [-0.6130, 30.9387],
+      "accommodation": "Rwakobo Lodge",
+      "highlights": ["Equator crossing photo stop", "Evening game drive for zebras, impala, warthogs"],
+      "activities": [
+        {
+          "icon": "map-pin",
+          "title": "Equator stop",
+          "time": "Midday",
+          "description": "Stopover at the Equator for photos."
+        },
+        {
+          "icon": "binoculars",
+          "title": "Evening game drive",
+          "time": "Afternoon",
+          "description": "Spot zebras, impalas, warthogs and birds in Lake Mburo."
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Lake Mburo game drive and transfer to Bwindi",
+      "location": "Lake Mburo National Park to Bwindi Impenetrable National Park",
+      "images": [],
+      "coordinates": [-1.0475, 29.6430],
+      "accommodation": "Bakiga Lodge",
+      "highlights": ["Morning game drive in Lake Mburo", "Transfer to Bwindi"],
+      "activities": [
+        {
+          "icon": "binoculars",
+          "title": "Morning game drive",
+          "time": "Morning",
+          "description": "See zebras, impala, buffaloes, tropical bird species."
+        },
+        {
+          "icon": "road",
+          "title": "Drive to Bwindi",
+          "time": "Afternoon",
+          "description": "Transfer through scenic countryside to Bwindi."
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Gorilla tracking",
+      "location": "Bwindi Impenetrable National Park",
+      "images": [],
+      "coordinates": [-1.0490, 29.7580],
+      "accommodation": "Bakiga Lodge",
+      "highlights": ["Mountain gorilla trekking"],
+      "activities": [
+        {
+          "icon": "hiking",
+          "title": "Gorilla trek",
+          "time": "Morning",
+          "description": "Briefing and trek into forest to observe gorillas in their natural habitat."
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Transfer to Queen Elizabeth National Park via Ishasha",
+      "location": "Ishasha sector, Queen Elizabeth National Park",
+      "images": [],
+      "coordinates": [-0.3760, 29.8780],
+      "accommodation": "Bush Lodge",
+      "highlights": ["Search for tree‑climbing lions", "Wildlife en route"],
+      "activities": [
+        {
+          "icon": "road",
+          "title": "Drive to Ishasha",
+          "time": "Morning",
+          "description": "Transfer to Ishasha sector known for tree‑climbing lions."
+        },
+        {
+          "icon": "binoculars",
+          "title": "Lion search",
+          "time": "Afternoon",
+          "description": "Look for lions resting or climbing fig trees."
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Game drive and boat cruise on Kazinga Channel",
+      "location": "Queen Elizabeth National Park",
+      "images": [],
+      "coordinates": [-0.4620, 29.8880],
+      "accommodation": "Bush Lodge",
+      "highlights": ["Game drive in Kasenyi plains", "Boat cruise at Kazinga Channel"],
+      "activities": [
+        {
+          "icon": "binoculars",
+          "title": "Morning game drive",
+          "time": "Morning",
+          "description": "Game drive in Kasenyi plains to see elephants, hyenas, antelopes."
+        },
+        {
+          "icon": "boat",
+          "title": "Boat cruise",
+          "time": "Afternoon",
+          "description": "Cruise on Kazinga Channel to see hippos, crocodiles, waterbirds."
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Drive back to Kampala via Equator",
+      "location": "Road transfer to Kampala via Equator",
+      "images": [],
+      "coordinates": [0.0236, 32.5825],
+      "accommodation": "End of Safari",
+      "highlights": ["Equator crossing en route", "Return journey to Kampala/Entebbe"],
+      "activities": [
+        {
+          "icon": "map-pin",
+          "title": "Equator crossing",
+          "time": "Morning",
+          "description": "Stop at the Equator for photos."
+        },
+        {
+          "icon": "car",
+          "title": "Transfer to Kampala/Entebbe",
+          "time": "Afternoon",
+          "description": "Drive back to the starting point; safari concludes."
+        }
+      ]
+    }
+  ]
+}
